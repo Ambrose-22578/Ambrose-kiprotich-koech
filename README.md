@@ -41,7 +41,7 @@ I build AI-enhanced solutions that automate workflows, improve communication, an
 ---
 
 ### 🔹 AI-Powered Conversational Chatbot  
-✔ Reads documents & gives real-time answers  
+✔ Reads documents & responds intelligently  
 ✔ Sends email/SMS/WhatsApp reminders  
 ✔ Designed for academic communication  
 🔗 https://github.com/AmbroseKiprotichKoech/ai-chatbot-system
@@ -50,40 +50,65 @@ I build AI-enhanced solutions that automate workflows, improve communication, an
 
 ### 🔹 Taifa Restaurant Management System  
 ✔ Menu ordering system  
-✔ Admin panel for meals, prices, updates  
-✔ Authentication & database integration  
+✔ Admin panel for meals, prices & updates  
+✔ Authentication with database storage  
 🔗 https://github.com/AmbroseKiprotichKoech/taifa-restaurant-system
 
 ---
 
 ### 🔹 Vehicle Rental Management System  
 ✔ Authentication & validation middleware  
-✔ Real-time booking & availability updates  
-✔ Payment integration (Paystack)  
+✔ Real-time booking & availability  
+✔ Payment integration using Paystack  
 🔗 https://github.com/AmbroseKiprotichKoech/vehicle-rental-system
 
 ---
 
 ### 🔹 Salon Booking System  
-✔ User & admin roles  
-✔ Booking calendar & price listings  
-✔ MySQL-based appointment scheduling  
+✔ User & admin dashboards  
+✔ Booking calendar & pricing models  
+✔ MySQL-driven scheduling system  
 🔗 https://github.com/AmbroseKiprotichKoech/salon-booking-app
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics (Updated & Working)
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AmbroseKiprotichKoech&show_icons=true&theme=dark" height="160px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmbroseKiprotichKoech&layout=compact&theme=dark" height="160px"/>
+
+<!-- GitHub Stats -->
+<a href="https://github.com/AmbroseKiprotichKoech">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmbroseKiprotichKoech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</a>
+
+<!-- Streak Stats -->
+<a href="https://github.com/AmbroseKiprotichKoech">
+  <img height="165" src="https://streak-stats.demolab.com/?user=AmbroseKiprotichKoech&theme=tokyonight&hide_border=false" />
+</a>
+
+</p>
+
+<p align="center">
+
+<!-- Languages -->
+<a href="https://github.com/AmbroseKiprotichKoech">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmbroseKiprotichKoech&layout=compact&theme=tokyonight" />
+</a>
+
 </p>
 
 ---
 
 ## 📬 Let’s Connect
+
 <p align="left">
-<a href="https://www.linkedin.com/in/ambrose-koech-b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff"/></a>
-<a href="mailto:koech011@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff"/></a>
+<a href="https://www.linkedin.com/in/ambrose-koech-b2/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=fff"/>
+</a>
+
+<a href="mailto:koech011@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=fff"/>
+</a>
 </p>
 
 ---
